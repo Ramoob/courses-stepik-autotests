@@ -1,2 +1,1 @@
-# courses-stepik-autotests
-Homework on Stepik course/575
+Lesson 3.1 Step 7
